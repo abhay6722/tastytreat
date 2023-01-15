@@ -308,8 +308,6 @@ a:focus {
   top: 0;
 }
 
-/*end header section*/
-/* slider section */
 .slider_section {
   -webkit-box-flex: 1;
       -ms-flex: 1;
@@ -734,8 +732,6 @@ a:focus {
   min-height: 100%;
   width: 100%;
 }
-
-/* client section start */
 .client_section .heading_container {
   margin-bottom: 30px;
 }
@@ -828,7 +824,6 @@ a:focus {
   border-radius: 100%;
 }
 
-/* client section end */
 .contact_section .heading_container {
   margin-bottom: 45px;
 }
@@ -897,7 +892,6 @@ a:focus {
   background-color: #e69c00;
 }
 
-/* footer section*/
 .footer_section {
   background-color: #222831;
   color: #ffffff;
